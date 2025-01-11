@@ -1,29 +1,23 @@
-# Rsbuild Project
+# Framer Motion Examples
 
-## Setup
+A collection of Framer Motion animation examples to help you learn and implement beautiful animations in your React applications.
 
-Install the dependencies:
+## 🌟 Examples Collection
 
-```bash
-pnpm install
-```
+### Theme Toggle Component
 
-## Get Started
+> Source: [src/examples/toggle-theme.tsx](./src/examples/toggle-theme.tsx)
 
-Start the dev server:
+A beautiful and interactive dark/light mode toggle component built with Framer Motion, featuring smooth animations, cloud movements, and twinkling stars.
 
-```bash
-pnpm dev
-```
+## 🛠️ Tech Stack
 
-Build the app for production:
+- React 18
+- TypeScript
+- Framer Motion
+- Tailwind CSS
+- Shadcn UI
 
-```bash
-pnpm build
-```
+## 🚀 Getting Started
 
-Preview the production build locally:
-
-```bash
-pnpm preview
-```
+1. Clone the repository
